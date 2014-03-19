@@ -11,7 +11,7 @@ module OmniAuth
       # This is where you pass the options you would pass when
       # initializing your consumer from the OAuth gem.
       option :client_options, {
-        site:               'http://quanto.herokuapp.com',
+        site:               'http://tryquanto.com',
         request_token_path: '/oauth/request_token',
         access_token_path:  '/oauth/access_token',
         authorize_path:     '/oauth/authorize',
